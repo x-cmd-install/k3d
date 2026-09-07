@@ -5,13 +5,13 @@ about:
   head: 46f3480
   archived: false
   latestVersion: "v5.9.0"
-  collectedAt: 2026-09-07T05:11:00Z
+  collectedAt: 2026-09-07T19:20:04Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-06-12
   lastRelease: 2026-06-02
 popularity:
-  star: 6549
+  star: 6548
   watcher: 54
   fork: 535
   release: 154
@@ -84,7 +84,7 @@ total:
   commit: 1618
 ---
 path: /home/runner/.x-repo/github.com/k3d-io/k3d
-collectedAt: 2026-09-07T05:11:07Z
+collectedAt: 2026-09-07T19:20:10Z
 loc:
   Go:
     code: 795453
@@ -340,7 +340,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:11:08+00:00
+  collectedAt: 2026-09-07T19:20:12+00:00
   platform:
     darwin/arm64:
       name:  k3d-darwin-arm64
