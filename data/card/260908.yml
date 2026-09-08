@@ -5,7 +5,7 @@ about:
   head: 46f3480
   archived: false
   latestVersion: "v5.9.0"
-  collectedAt: 2026-09-08T02:26:14Z
+  collectedAt: 2026-09-08T05:26:39Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-06-12
@@ -84,7 +84,7 @@ total:
   commit: 1618
 ---
 path: /home/runner/.x-repo/github.com/k3d-io/k3d
-collectedAt: 2026-09-08T02:26:41Z
+collectedAt: 2026-09-08T05:26:49Z
 loc:
   Go:
     code: 795453
