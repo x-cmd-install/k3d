@@ -7,7 +7,7 @@ Little helper to run CNCF's k3s in Docker
 - **Latest release**: `v5.9.0` (2026-06-02)
 - **Last commit**: 2026-06-12
 - **License**: MIT
-- **Stars**: 6548 · **Forks**: 535 · **Open issues**: 846 · **Contributors**: 144
+- **Stars**: 6547 · **Forks**: 535 · **Open issues**: 846 · **Contributors**: 144
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/k3d> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:34:27Z._
+_Last regenerated: 2026-09-09T05:20:45Z._
