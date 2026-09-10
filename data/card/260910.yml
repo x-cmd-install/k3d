@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.9.0"
   latestRelease: "v5.9.0"
   latestPrerelease: "v5.9.0-rc.0"
-  collectedAt: 2026-09-10T05:25:57Z
+  collectedAt: 2026-09-10T17:06:23Z
 timeline:
   created: 2019-04-02
   lastCommit: 2026-06-12
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-02
   lastPrerelease: 2025-10-01
 popularity:
-  star: 6547
+  star: 6548
   watcher: 54
   fork: 536
   release: 154
@@ -88,7 +88,7 @@ total:
   commit: 1618
 ---
 path: /home/runner/.x-repo/github.com/k3d-io/k3d
-collectedAt: 2026-09-10T05:26:11Z
+collectedAt: 2026-09-10T17:06:51Z
 loc:
   Go:
     code: 795453
