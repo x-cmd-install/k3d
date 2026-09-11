@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 620,
       "digest": "sha256:ed820bf83134bb0e5f0980f44c16e643ae956c1aeeb3f17ca120c9cd0a41262b",
-      "download_count": 478109,
+      "download_count": 480304,
       "created_at": "2026-06-02T14:41:29Z",
       "updated_at": "2026-06-02T14:41:30Z",
       "browser_download_url": "https://github.com/k3d-io/k3d/releases/download/v5.9.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 24018146,
       "digest": "sha256:fe106541d5d0a3f18debcd4d432a16f8c0ce3e6ddc06f8fbb6f696a122313e00",
-      "download_count": 6538,
+      "download_count": 6628,
       "created_at": "2026-06-02T14:41:25Z",
       "updated_at": "2026-06-02T14:41:27Z",
       "browser_download_url": "https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-darwin-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 24887458,
       "digest": "sha256:06d8f25bc3a971c4eb29e0ff08429b180402db0f4dec838c9eac427e296800a0",
-      "download_count": 604032,
+      "download_count": 607119,
       "created_at": "2026-06-02T14:41:21Z",
       "updated_at": "2026-06-02T14:41:23Z",
       "browser_download_url": "https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 23134370,
       "digest": "sha256:03cde5cf23e6e8e67de5a039ecf26e5b85aca82fba3e5d13dadf904cd218a250",
-      "download_count": 47655,
+      "download_count": 47881,
       "created_at": "2026-06-02T14:41:17Z",
       "updated_at": "2026-06-02T14:41:18Z",
       "browser_download_url": "https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-linux-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 25805312,
       "digest": "sha256:49d0b9c796f5b8ba6f58a1dd5469e8b7b34bf9b6ce9078633eedb2789680a034",
-      "download_count": 6349,
+      "download_count": 6365,
       "created_at": "2026-06-02T14:41:15Z",
       "updated_at": "2026-06-02T14:41:16Z",
       "browser_download_url": "https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-windows-amd64.exe"
