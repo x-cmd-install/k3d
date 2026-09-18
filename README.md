@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 0 | 0 | 9 | 0 | 1 | 0 |
-| 90d | 2026-06-19 | 0 | 0 | 11 | 0 | 1 | 0 |
-| last180d | 2026-03-21 | 1 | 9 | 18 | 0 | 7 | 13 |
-| 360d | 2025-09-22 | 2 | 15 | 33 | 7 | 15 | 17 |
-| last720d | 2024-09-27 | 7 | 38 | 42 | 22 | 42 | 104 |
+| 30d | 2026-08-19 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-07-20 | 0 | 0 | 9 | 0 | 1 | 0 |
+| 90d | 2026-06-20 | 0 | 0 | 11 | 0 | 1 | 0 |
+| last180d | 2026-03-22 | 1 | 9 | 18 | 0 | 7 | 13 |
+| 360d | 2025-09-23 | 2 | 15 | 33 | 7 | 15 | 17 |
+| last720d | 2024-09-28 | 7 | 38 | 42 | 22 | 42 | 104 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for k3d lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:42:18Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:29:39Z._
