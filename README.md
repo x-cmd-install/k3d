@@ -4,7 +4,7 @@
 
 Little helper to run CNCF's k3s in Docker
 
-![k3d](https://repo.x-cmd.io/k3d.svg)
+[![x-cmd/install — k3d Code Quality Monitoring Repo Card](https://repo.x-cmd.io/k3d.svg)](https://x-cmd.com/install/k3d)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,556 · **Forks**: 536 · **Open issues**: 846 · **Contributors**: 144
+- **Stars**: 6,560 · **Forks**: 537 · **Open issues**: 846 · **Contributors**: 144
 
 ## Totals (cumulative)
 
-- **Releases**: 154 · **Merged PRs**: 449 · **Open PRs**: 45 · **Closed issues**: 600 · **Open issues**: 246 · **Commits**: 1618
+- **Releases**: 154 · **Merged PRs**: 449 · **Open PRs**: 46 · **Closed issues**: 600 · **Open issues**: 246 · **Commits**: 1618
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 9 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 11 | 0 | 1 | 0 |
-| last180d | 2026-03-22 | 1 | 9 | 18 | 0 | 7 | 13 |
-| 360d | 2025-09-23 | 2 | 15 | 33 | 7 | 15 | 17 |
-| last720d | 2024-09-28 | 7 | 38 | 42 | 22 | 42 | 104 |
+| 30d | 2026-08-21 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 10 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 12 | 0 | 1 | 0 |
+| last180d | 2026-03-24 | 1 | 9 | 19 | 0 | 7 | 10 |
+| 360d | 2025-09-25 | 2 | 15 | 34 | 7 | 15 | 16 |
+| last720d | 2024-09-30 | 7 | 38 | 43 | 22 | 42 | 104 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for k3d lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:29:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:32:08Z._
