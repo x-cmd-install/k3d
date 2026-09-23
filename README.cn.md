@@ -4,7 +4,7 @@
 
 Little helper to run CNCF's k3s in Docker
 
-[![x-cmd/install — k3d Code Quality Monitoring Repo Card](https://repo.x-cmd.io/k3d.svg?lang=zh)](https://x-cmd.com/install/k3d)
+[![x-cmd/install — k3d Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/k3d.svg?lang=zh)](https://x-cmd.com/install/k3d)
 
 ## 安装
 
@@ -30,8 +30,8 @@ x install k3d
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -48,7 +48,7 @@ x install k3d
 
 ## 流行度
 
-- **Star**: 6,562 · **Fork**: 536 · **开放 issue**: 846 · **贡献者**: 144
+- **Star**: 6,563 · **Fork**: 536 · **开放 issue**: 846 · **贡献者**: 144
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install k3d
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 8 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 10 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 11 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 1 | 7 | 19 | 0 | 7 | 10 |
-| 360d | 2025-09-27 | 2 | 15 | 34 | 7 | 15 | 16 |
-| last720d | 2024-10-02 | 7 | 38 | 43 | 22 | 42 | 104 |
+| 30d | 2026-08-24 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 10 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 11 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 1 | 7 | 18 | 0 | 7 | 10 |
+| 360d | 2025-09-28 | 2 | 15 | 34 | 7 | 14 | 16 |
+| last720d | 2024-10-03 | 7 | 38 | 43 | 22 | 42 | 104 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ k3d 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:38:20Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:40:33Z._

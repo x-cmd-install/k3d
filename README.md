@@ -4,7 +4,7 @@
 
 Little helper to run CNCF's k3s in Docker
 
-[![x-cmd/install — k3d Code Quality Monitoring Repo Card](https://repo.x-cmd.io/k3d.svg)](https://x-cmd.com/install/k3d)
+[![x-cmd/install — k3d Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/k3d.svg)](https://x-cmd.com/install/k3d)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **3.4 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,562 · **Forks**: 536 · **Open issues**: 846 · **Contributors**: 144
+- **Stars**: 6,563 · **Forks**: 536 · **Open issues**: 846 · **Contributors**: 144
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 8 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 10 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 11 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 1 | 7 | 19 | 0 | 7 | 10 |
-| 360d | 2025-09-27 | 2 | 15 | 34 | 7 | 15 | 16 |
-| last720d | 2024-10-02 | 7 | 38 | 43 | 22 | 42 | 104 |
+| 30d | 2026-08-24 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 10 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 11 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 1 | 7 | 18 | 0 | 7 | 10 |
+| 360d | 2025-09-28 | 2 | 15 | 34 | 7 | 14 | 16 |
+| last720d | 2024-10-03 | 7 | 38 | 43 | 22 | 42 | 104 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for k3d lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:38:19Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:40:32Z._
