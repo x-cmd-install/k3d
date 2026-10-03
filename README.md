@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,576 · **Forks**: 537 · **Open issues**: 846 · **Contributors**: 144
+- **Stars**: 6,578 · **Forks**: 538 · **Open issues**: 847 · **Contributors**: 144
 
 ## Totals (cumulative)
 
-- **Releases**: 154 · **Merged PRs**: 449 · **Open PRs**: 47 · **Closed issues**: 600 · **Open issues**: 246 · **Commits**: 1618
+- **Releases**: 154 · **Merged PRs**: 449 · **Open PRs**: 47 · **Closed issues**: 601 · **Open issues**: 246 · **Commits**: 1618
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-08-03 | 0 | 0 | 8 | 0 | 1 | 0 |
-| 90d | 2026-07-04 | 0 | 0 | 10 | 0 | 1 | 0 |
-| last180d | 2026-04-05 | 1 | 6 | 19 | 0 | 7 | 8 |
-| 360d | 2025-10-07 | 1 | 14 | 35 | 6 | 13 | 16 |
-| last720d | 2024-10-12 | 7 | 37 | 44 | 22 | 42 | 103 |
+| 30d | 2026-09-03 | 0 | 0 | 5 | 1 | 0 | 0 |
+| last60d | 2026-08-04 | 0 | 0 | 8 | 1 | 1 | 0 |
+| 90d | 2026-07-05 | 0 | 0 | 10 | 1 | 1 | 0 |
+| last180d | 2026-04-06 | 1 | 6 | 19 | 1 | 7 | 8 |
+| 360d | 2025-10-08 | 1 | 14 | 35 | 7 | 13 | 16 |
+| last720d | 2024-10-13 | 7 | 37 | 44 | 23 | 42 | 103 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for k3d lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:07:15Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:50:11Z._
