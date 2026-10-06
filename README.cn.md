@@ -30,8 +30,8 @@ x install k3d
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -48,22 +48,22 @@ x install k3d
 
 ## 流行度
 
-- **Star**: 6,582 · **Fork**: 539 · **开放 issue**: 847 · **贡献者**: 144
+- **Star**: 6,582 · **Fork**: 540 · **开放 issue**: 849 · **贡献者**: 144
 
 ## 累计统计
 
-- **发布数**: 154 · **已合并 PR**: 449 · **开放 PR**: 48 · **已关闭 issue**: 601 · **开放 issue**: 246 · **提交数**: 1618
+- **发布数**: 154 · **已合并 PR**: 449 · **开放 PR**: 49 · **已关闭 issue**: 601 · **开放 issue**: 248 · **提交数**: 1618
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 4 | 1 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 9 | 1 | 0 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 11 | 1 | 1 | 0 |
-| last180d | 2026-04-08 | 1 | 6 | 20 | 1 | 7 | 8 |
-| 360d | 2025-10-10 | 1 | 13 | 36 | 7 | 13 | 15 |
-| last720d | 2024-10-15 | 7 | 37 | 45 | 23 | 42 | 103 |
+| 30d | 2026-09-06 | 0 | 0 | 5 | 1 | 2 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 10 | 1 | 2 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 12 | 1 | 3 | 0 |
+| last180d | 2026-04-09 | 1 | 6 | 21 | 1 | 9 | 0 |
+| 360d | 2025-10-11 | 1 | 13 | 37 | 7 | 15 | 0 |
+| last720d | 2024-10-16 | 7 | 37 | 46 | 23 | 44 | 103 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ k3d 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:10:54Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:05:47Z._
