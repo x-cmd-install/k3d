@@ -14,14 +14,14 @@ x install k3d
 
 ## Code insight
 
-Total: **853,130** lines of code across **3678** files in the top 5 languages.
+Total: **853,501** lines of code across **3679** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 795,453 | 201,165 | 109,136 | 3498 |
+| Go | 795,727 | 201,221 | 109,179 | 3498 |
 | Yaml | 27,397 | 119 | 727 | 42 |
 | AssemblyGAS | 18,072 | 1,185 | 4,307 | 88 |
-| Sh | 4,647 | 560 | 798 | 48 |
+| Sh | 4,744 | 576 | 827 | 49 |
 | Css | 2,592 | 10 | 11 | 2 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.9.0` (2026-06-02)
-- **Last commit**: 2026-06-12
+- **Last commit**: 2026-10-17
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 6,596 · **Forks**: 541 · **Open issues**: 849 · **Contributors**: 144
+- **Stars**: 6,599 · **Forks**: 541 · **Open issues**: 849 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 154 · **Merged PRs**: 449 · **Open PRs**: 64 · **Closed issues**: 601 · **Open issues**: 248 · **Commits**: 1618
+- **Releases**: 154 · **Merged PRs**: 450 · **Open PRs**: 63 · **Closed issues**: 602 · **Open issues**: 247 · **Commits**: 1619
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 20 | 0 | 2 | 0 |
-| last60d | 2026-08-18 | 0 | 0 | 25 | 1 | 2 | 0 |
-| 90d | 2026-07-19 | 0 | 0 | 27 | 1 | 3 | 0 |
-| last180d | 2026-04-20 | 1 | 6 | 36 | 1 | 8 | 8 |
-| 360d | 2025-10-22 | 1 | 13 | 52 | 7 | 15 | 15 |
-| last720d | 2024-10-27 | 7 | 37 | 61 | 23 | 44 | 103 |
+| 30d | 2026-09-18 | 0 | 1 | 18 | 0 | 2 | 1 |
+| last60d | 2026-08-19 | 0 | 1 | 24 | 1 | 2 | 1 |
+| 90d | 2026-07-20 | 0 | 1 | 26 | 2 | 2 | 1 |
+| last180d | 2026-04-21 | 1 | 7 | 35 | 2 | 7 | 9 |
+| 360d | 2025-10-23 | 1 | 14 | 51 | 8 | 14 | 16 |
+| last720d | 2024-10-28 | 7 | 38 | 60 | 24 | 43 | 104 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for k3d lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:56:56Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:57:04Z._
