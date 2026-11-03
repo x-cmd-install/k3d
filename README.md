@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,605 · **Forks**: 546 · **Open issues**: 851 · **Contributors**: 146
+- **Stars**: 6,605 · **Forks**: 547 · **Open issues**: 851 · **Contributors**: 146
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 2 | 21 | 0 | 4 | 2 |
-| last60d | 2026-09-03 | 0 | 2 | 25 | 1 | 4 | 2 |
-| 90d | 2026-08-04 | 0 | 2 | 28 | 2 | 4 | 2 |
-| last180d | 2026-05-06 | 1 | 8 | 39 | 2 | 8 | 10 |
-| 360d | 2025-11-07 | 1 | 15 | 53 | 8 | 16 | 17 |
-| last720d | 2024-11-12 | 7 | 38 | 64 | 24 | 44 | 102 |
+| 30d | 2026-10-04 | 0 | 2 | 21 | 0 | 4 | 2 |
+| last60d | 2026-09-04 | 0 | 2 | 23 | 1 | 4 | 2 |
+| 90d | 2026-08-05 | 0 | 2 | 28 | 2 | 4 | 2 |
+| last180d | 2026-05-07 | 1 | 8 | 39 | 2 | 8 | 10 |
+| 360d | 2025-11-08 | 1 | 15 | 53 | 8 | 16 | 17 |
+| last720d | 2024-11-13 | 7 | 37 | 64 | 24 | 43 | 102 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for k3d lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:45:03Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:21:56Z._
