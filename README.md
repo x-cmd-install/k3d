@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 154 · **Merged PRs**: 451 · **Open PRs**: 76 · **Closed issues**: 603 · **Open issues**: 250 · **Commits**: 1620
+- **Releases**: 154 · **Merged PRs**: 451 · **Open PRs**: 75 · **Closed issues**: 603 · **Open issues**: 250 · **Commits**: 1620
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 11 | 0 | 2 | 0 |
-| last60d | 2026-09-28 | 0 | 2 | 30 | 0 | 6 | 2 |
-| 90d | 2026-08-29 | 0 | 2 | 35 | 1 | 6 | 2 |
-| last180d | 2026-05-31 | 1 | 8 | 46 | 2 | 9 | 10 |
-| 360d | 2025-12-02 | 1 | 15 | 57 | 5 | 16 | 17 |
-| last720d | 2024-12-07 | 6 | 36 | 73 | 23 | 43 | 97 |
+| 30d | 2026-10-29 | 0 | 0 | 10 | 0 | 2 | 0 |
+| last60d | 2026-09-29 | 0 | 2 | 30 | 0 | 6 | 2 |
+| 90d | 2026-08-30 | 0 | 2 | 35 | 1 | 6 | 2 |
+| last180d | 2026-06-01 | 1 | 8 | 45 | 2 | 9 | 10 |
+| 360d | 2025-12-03 | 1 | 15 | 56 | 5 | 16 | 17 |
+| last720d | 2024-12-08 | 6 | 36 | 72 | 23 | 43 | 97 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for k3d lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:59:26Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:53:24Z._
